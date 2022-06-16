@@ -14,4 +14,4 @@ Group Members being
 - Danyal Wali
 - Hammad Hassan
 
-Please note that the code is accordance to the topology used for fixed or random edge cost. To change the topology, adjacency matrix and diffusion matrix are to be updated accordingly.
+Please note that the code is in accordance to the topology used for fixed or random edge cost. To change the topology, adjacency matrix and diffusion matrix are to be updated accordingly.
